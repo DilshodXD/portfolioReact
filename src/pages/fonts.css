@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'ArodoraPro-Light';
+    src: url(./fonts/ArodoraPro-Light.otf);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'NEXT_ART_Bold';
+    src: url(./fonts/NEXT_ART_Bold.otf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'NEXT_ART_Regular';
+    src: url(./fonts/NEXT_ART_Regular.otf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'NEXT_ART_SemiBold';
+    src: url(./fonts/NEXT_ART_SemiBold.otf);
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'NicoMoji-Regular';
+    src: url(./fonts/NicoMoji-Regular.ttf);
+    font-weight: 400;
+}
