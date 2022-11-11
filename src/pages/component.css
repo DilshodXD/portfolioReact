@@ -632,3 +632,72 @@ header {
 .contact-img {
     width: 40px;
 }
+
+.notfound {
+    background-color: var(--gray);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.notfound__inner {
+    z-index: 3;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+
+.notfound__title {
+    font-family: var(--moji);
+    font-size: 62px;
+    font-weight: 500;
+    text-align: center;
+    line-height: 48px;
+    color: var(--cream);
+}
+
+.notfound__link {
+    display: flex;
+    gap: 20px;
+}
+
+.notfound__links {
+    width: max-content;
+    padding: 6px 26px;
+    font-family: var(--nb);
+    font-size: 18px;
+    line-height: 20px;
+    color: var(--black);
+
+    background: var(--yellow);
+    border-radius: 6px;
+    transition: .3s;
+}
+
+.notfound__circle{
+    opacity: .2;
+    z-index: -2;
+    font-family: var(--nb);
+    font-size: 262px;
+    font-weight: 500;
+    text-align: center;
+    line-height: 88px;
+    color: var(--yellow);
+    animation: circle infinite linear 6s;
+    margin-bottom: 100px;
+}
+
+@keyframes circle {
+    0% {
+        opacity: .2;
+        transform: rotateY(0deg);
+    }50% {
+        opacity: .6;
+        transform: rotateY(360deg);
+    }0% {
+        opacity: .2;
+        transform: rotateY(0deg);
+    }
+}
