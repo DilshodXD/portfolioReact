@@ -1,4 +1,6 @@
 import React from "react";
+import { LazyLoadImage } from 'react-lazy-load-image-component';
+import 'react-lazy-load-image-component/src/effects/blur.css';
 import "./component.css";
 import "./media.css";
 import About1 from "./img/about1.jpg";
@@ -14,10 +16,10 @@ function Home() {
             <div class="about__content">
               <div class="about__content-left">
                 <div class="about__content-img">
-                  <img src={About1} alt="" class="content__img"></img>
+                  <LazyLoadImage effect="blur" src={About1} alt="" class="content__img"/>
                 </div>
                 <div class="about__content-img">
-                  <img src={About2} alt="" class="content__img"></img>
+                  <LazyLoadImage effect="blur" src={About2} alt="" class="content__img"/>
                 </div>
               </div>
               <div class="about__content-middle">
@@ -43,7 +45,7 @@ function Home() {
               </div>
               <div class="about__content-right">
                 <div class="about__content-img">
-                  <img src={About3} alt="" class="content__img"></img>
+                  <LazyLoadImage effect="blur" src={About3} alt="" class="content__img"/>
                 </div>
               </div>
             </div>

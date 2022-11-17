@@ -1,5 +1,7 @@
 import React from "react";
 import { Outlet, Link } from "react-router-dom";
+import { LazyLoadImage } from 'react-lazy-load-image-component';
+import 'react-lazy-load-image-component/src/effects/blur.css';
 import "./component.css";
 import "./media.css";
 import top from "./img/gl-top.png";
@@ -32,8 +34,8 @@ function Home() {
             <div class="header__bottom-right">
               <div class="header__bottom-round">
                 <div class="round__img">
-                  <img class="round__img-top" src={top} alt=""></img>
-                  <img class="round__img-bottom" src={bottom} alt=""></img>
+                  <img class="round__img-top" src={top} alt=""/>
+                  <img class="round__img-bottom" src={bottom} alt=""/>
                 </div>
                 <div class="round round2">css</div>
                 <div class="round round3">js</div>

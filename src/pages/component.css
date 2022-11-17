@@ -420,6 +420,7 @@ header {
 }
 
 .portfolio-img {
+    border-radius: 8px;
     width: 250px;
     height: 250px;
 }

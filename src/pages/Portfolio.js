@@ -2,6 +2,8 @@ import React from "react";
 import "./component.css";
 import "./media.css";
 import CarouselInfo from "./carouselInfo.json";
+import { LazyLoadImage } from 'react-lazy-load-image-component';
+import 'react-lazy-load-image-component/src/effects/blur.css';
 
 function Home() {
   return (
@@ -13,7 +15,7 @@ function Home() {
             return (
               <div key={post.id} className="portfolio-box">
                 <a href={post.link}>
-                  <img className="portfolio-img" src={post.img} alt="" />
+                  <LazyLoadImage effect="blur" className="portfolio-img" src={post.img} alt="" />
                 </a>
                 <h3 className="portfolio-title">{post.title}</h3>
                 <p className="portfolio-text">{post.text}</p>

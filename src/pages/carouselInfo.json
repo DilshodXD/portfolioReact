@@ -31,5 +31,20 @@
         "text": "Bright Lights bu saytni Sass yaniy (CSS Framework) ni o'zlashtirish uchun tayyorlaganman.",
         "github": "https://github.com/DilshodXD/BrightLights",
         "link": "https://brightlights-xd.netlify.app/"
+    },
+    {
+        "id": "5",
+        "img": "image/port.png",
+        "title": "Portfolio React",
+        "text": "Portfolio React bu Web say emas Web application hisoblanadi. Bu web application ni yasashda ReactJS kutubhonasidan foydalanib React Router orqali sahifalarni almashtirilayotganda keraksiz qismlarni yuklamasdan faqat kerakli qismini yuklaydi.",
+        "github": "https://github.com/DilshodXD/BrightLights",
+        "link": "https://brightlights-xd.netlify.app/"
+    },{
+        "id": "6",
+        "img": "image/foodshop.png",
+        "title": "FoodShop",
+        "text": "FoodShop bu saytni ReactJS kutubhonasi orqali yasaganman unda (LazyLoadImage) rasmlarni hajmini kichraytirib kerak bolgandagina yuklanadigan qilib yasalgan. Yana etibor berish kereak bolgan narsa shundaki unda Json faydan foydalanib malumotlarni (Map) yordamida chiqarilgan avzallik tomoni bu saydagi malumotlarni kengaytirish oson bo'lishida.",
+        "github": "https://github.com/DilshodXD/FoodShop",
+        "link": "https://foodshop-xd.netlify.app/"
     }
 ]
