@@ -9,10 +9,10 @@ import About3 from "./../img/about3.jpg";
 
 const middle = () => {
   return (
-    <div class="about__content-middle">
-      <div class="about__content-text">
-        <h2 class="about__content-title">Men haqimda</h2>
-        <p class="about__content-subtitle">
+    <div className="about__content-middle">
+      <div className="about__content-text">
+        <h2 className="about__content-title">Men haqimda</h2>
+        <p className="about__content-subtitle">
           Hammaga yana bir marotaba salom! Siz bilasizki mening ismim
           Dilshod. Men haqimda qisqacha malumot: yoshim 18 da, TSTU da
           talabaman, Workout ga qiziqama va shugullanib turaman. Nega
@@ -36,18 +36,18 @@ const middle = () => {
 const full = () => {
   return (
     <>
-      <div class="about__content-left">
-        <div class="about__content-img">
-          <LazyLoadImage effect="blur" src={About1} alt="" class="content__img" />
+      <div className="about__content-left">
+        <div className="about__content-img">
+          <LazyLoadImage effect="blur" src={About1} alt="" className="content__img" />
         </div>
-        <div class="about__content-img">
-          <LazyLoadImage effect="blur" src={About2} alt="" class="content__img" />
+        <div className="about__content-img">
+          <LazyLoadImage effect="blur" src={About2} alt="" className="content__img" />
         </div>
       </div>
       {middle()}
-      <div class="about__content-right">
-        <div class="about__content-img">
-          <LazyLoadImage effect="blur" src={About3} alt="" class="content__img" />
+      <div className="about__content-right">
+        <div className="about__content-img">
+          <LazyLoadImage effect="blur" src={About3} alt="" className="content__img" />
         </div>
       </div>
     </>
@@ -64,10 +64,10 @@ const returner = () => {
 function Home() {
   return (
     <>
-      <div class="about" id="about">
-        <div class="container">
-          <div class="about__inner">
-            <div class="about__content">
+      <div className="about" id="about">
+        <div className="container">
+          <div className="about__inner">
+            <div className="about__content">
               {returner()}
             </div>
           </div>

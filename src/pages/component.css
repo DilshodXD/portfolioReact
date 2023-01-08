@@ -443,7 +443,7 @@ header {
 }
 
 .portfolio-link {
-    width: max-content;
+    width: fit-content;
     font-family: var(--pro);
     font-size: 18px;
     line-height: 21px;
@@ -701,4 +701,9 @@ header {
         opacity: .2;
         transform: rotateY(0deg);
     }
+}
+
+.small-footer{
+    height: 88vh;
+    background: linear-gradient(90deg, #2C2C2C 1.56%, #1C1C1C 95.55%);
 }
