@@ -389,8 +389,9 @@ header {
 
 .portfolio {
     display: flex;
+    justify-content: center;
     background: linear-gradient(90deg, #2C2C2C 1.56%, #1C1C1C 95.55%);
-    height: 100vh;
+    padding-bottom: 50px;
 }
 
 .portfolio__title {
@@ -406,8 +407,7 @@ header {
 .portfolio__inner {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
-    gap: 10px;
+    gap: 25px 10px;
 }
 
 .portfolio-box {
@@ -435,7 +435,7 @@ header {
 
 .portfolio-text {
     width: 250px;
-    height: 200px;
+    height: 250px;
     font-family: var(--pro);
     font-size: 16px;
     line-height: 19px;

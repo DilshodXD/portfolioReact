@@ -1,10 +1,10 @@
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Nav from "./pages/Nav";
-import Home from "./pages/Home";
-import About from "./pages/About";
-import Portfolio from "./pages/Portfolio";
-import Contact from "./pages/Contact.js";
+import Home from "./pages/home/Home";
+import About from "./pages/about/About";
+import Portfolio from "./pages/portfolio/Portfolio";
+import Contact from "./pages/contact/Contact.js";
 import NoPage from "./pages/NoPage";
 
 function App() {

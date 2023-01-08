@@ -9,6 +9,14 @@
         "link": "https://calculator-xd.netlify.app/"
     },
     {
+        "id": "6",
+        "img": "image/foodshop.png",
+        "title": "FoodShop",
+        "text": "FoodShop bu saytni ReactJS kutubhonasi orqali yasaganman unda (LazyLoadImage) rasmlarni hajmini kichraytirib kerak bolgandagina yuklanadigan qilib yasalgan. Yana etibor berish kereak bolgan narsa shundaki unda Json faydan foydalanib malumotlarni (Map) yordamida chiqarilgan avzallik tomoni bu saydagi malumotlarni kengaytirish oson bo'lishida.",
+        "github": "https://github.com/DilshodXD/FoodShop",
+        "link": "https://foodshop-xd.netlify.app/"
+    },
+    {
         "id": "2",
         "img": "image/britlex.png",
         "title": "Britlex",
@@ -17,34 +25,11 @@
         "link": "https://britlex-xd.netlify.app/"
     },
     {
-        "id": "3",
-        "img": "image/medi.png",
-        "title": "Medi",
-        "text": "Medi bu tayyorlagan web saytimda men ko'proq CSS da (верстка) yaniy turli hil hajmdagi ekranlarga moslashuvchanlikga ko'proq urg'u berganman. Bu sayt PC: 1920px Laptop: 1440px, 1024px Table: 768px Mobile: 425px, 375px va 320px hajimdagi ekranlarga moslashtirib tuzilgan.",
-        "github": "https://github.com/DilshodXD/Medi",
-        "link": "https://medi-xd.netlify.app/"
-    },
-    {
-        "id": "4",
-        "img": "image/brightlights.png",
-        "title": "Bright Lights",
-        "text": "Bright Lights bu saytni Sass yaniy (CSS Framework) ni o'zlashtirish uchun tayyorlaganman.",
-        "github": "https://github.com/DilshodXD/BrightLights",
-        "link": "https://brightlights-xd.netlify.app/"
-    },
-    {
         "id": "5",
         "img": "image/port.png",
         "title": "Portfolio React",
         "text": "Portfolio React bu Web say emas Web application hisoblanadi. Bu web application ni yasashda ReactJS kutubhonasidan foydalanib React Router orqali sahifalarni almashtirilayotganda keraksiz qismlarni yuklamasdan faqat kerakli qismini yuklaydi.",
         "github": "https://github.com/DilshodXD/BrightLights",
-        "link": "https://brightlights-xd.netlify.app/"
-    },{
-        "id": "6",
-        "img": "image/foodshop.png",
-        "title": "FoodShop",
-        "text": "FoodShop bu saytni ReactJS kutubhonasi orqali yasaganman unda (LazyLoadImage) rasmlarni hajmini kichraytirib kerak bolgandagina yuklanadigan qilib yasalgan. Yana etibor berish kereak bolgan narsa shundaki unda Json faydan foydalanib malumotlarni (Map) yordamida chiqarilgan avzallik tomoni bu saydagi malumotlarni kengaytirish oson bo'lishida.",
-        "github": "https://github.com/DilshodXD/FoodShop",
-        "link": "https://foodshop-xd.netlify.app/"
+        "link": "https://portfolio-react-xd.netlify.app/"
     }
 ]

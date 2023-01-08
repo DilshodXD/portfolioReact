@@ -13,18 +13,17 @@
         flex-wrap: wrap;
         align-items: center;
         transform: translateX(-13px);
-        gap: 25px;
+        gap: 18px;
     }
 
-    .nav__item {
-        width: max-content;
-        font-weight: 300;
-        font-size: 8px;
-        line-height: 12px;
+    .nav__link {
+        font-size: 16px;
+        letter-spacing: 0px
     }
 
     .header__bottom-left {
-        margin-top: 50px;
+        height: 88vh;
+        margin-top: 120px;
         align-items: center;
     }
 
@@ -53,7 +52,7 @@
         border-radius: 4px;
     }
 
-    .about__content{
+    .about__content {
         padding-top: 17px;
         background-color: #2a2a2a;
     }
@@ -136,6 +135,7 @@
     .footer__links {
         margin-right: 0px;
     }
+
     .footer__contact {
         gap: 14px;
         margin-right: 0px;

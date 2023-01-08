@@ -1,14 +1,14 @@
 import React from "react";
-import "./component.css";
-import "./media.css";
+import "./../component.css";
+import "./../media.css";
 import { Outlet, Link } from "react-router-dom";
-import Logo from "./img/XD.png";
+import Logo from "./../img/XD.png";
 
-import Call from "./img/calls.png";
-import Telegram from "./img/telegram.png";
-import Instagram from "./img/instagram.png";
-import Linkedin from "./img/linkedin.png";
-import Email from "./img/mail.png";
+import Call from "./../img/calls.png";
+import Telegram from "./../img/telegram.png";
+import Instagram from "./../img/instagram.png";
+import Linkedin from "./../img/linkedin.png";
+import Email from "./../img/mail.png";
 
 function Home() {
   return (
