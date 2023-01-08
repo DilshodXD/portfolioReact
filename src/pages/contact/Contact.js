@@ -136,8 +136,15 @@ const smallSize = () => {
   )
 }
 
+const returner = () => {
+  if (window.outerWidth <= 425) {
+    return smallSize()
+  }
+  return fullSize()
+}
+
 function Home() {
-  return smallSize()
+  return returner()
 }
 
 export default Home;
