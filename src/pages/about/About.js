@@ -11,22 +11,11 @@ const middle = () => {
   return (
     <div className="about__content-middle">
       <div className="about__content-text">
-        <h2 className="about__content-title">Men haqimda</h2>
+        <h2 className="about__content-title">About me</h2>
         <p className="about__content-subtitle">
-          Hammaga yana bir marotaba salom! Siz bilasizki mening ismim
-          Dilshod. Men haqimda qisqacha malumot: yoshim 18 da, TSTU da
-          talabaman, Workout ga qiziqama va shugullanib turaman. Nega
-          aynan dasturlshni o'rganganimni sorasangiz u kelajak kasbi
-          va menga bu yoqadi. Bolaligimdan ijodni yahshi koraman.
-          Toshkent viloyatining chinoz tumanida yashayman. Front-end
-          dasturchiligi men uchun juda ajoyib kasb va qiziqarli. Har
-          xil kreativ fikirlashlar jarayonlari ayniqsa qiziq.
-          Dasturlashni Proweb o'quv markazida 9 oy mobaynida o'rgandim
-          va undan tashqari imkoniyatlarimdan kelib chiqgan holda
-          bilimlarimni oshirib kelmoqdaman. Ish boshlashdan maqsadim
-          bilimlarimni amalda sinash, malakamni oshirish va yanada
-          tezroq rivojlanishim ucun daromad topish. Maqsadim yanada
-          koproq bilimlarga ega bo'lib Fullstack dasturchi bolish.
+          Hello everyone once again! You know my name is Dilshad. Brief information about me: I'm 18 years old, I'm a student at TSTU, I'm interested in Workout and I'm doing it. If you ask me why I learned programming, it is the profession of the future
+          and i like it.
+          I live in Tashkent region. Programming is a great profession and fun for me. I studied at the Proweb training center and am still improving my knowledge. My goal in starting work is to test my knowledge in practice, improve my skills and help people using my knowledge. My goal is to gain more knowledge and become a Fullstack and Mobile developer.
         </p>
       </div>
     </div>

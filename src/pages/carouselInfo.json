@@ -4,7 +4,7 @@
         "id": "1",
         "img": "image/calc.png",
         "title": "Calculator",
-        "text": "Calculator bu saytni JavaScript tilida ko'proq amaliyot qislish uchun tayyorlaganman. unda xar hil matematik amallarni bajarish mumkun va saytning tepa qishmidagi tugmachalar orqali saytni (Dark mode) va (Light mode) tizimiga o'tkazish mumkun.",
+        "text": "Calculator made in JavaScript. Used technologies: JavaScript Html Css",
         "github": "https://github.com/DilshodXD/Calculator",
         "link": "https://calculator-xd.netlify.app/"
     },
@@ -12,7 +12,7 @@
         "id": "6",
         "img": "image/foodshop.png",
         "title": "FoodShop",
-        "text": "FoodShop bu saytni ReactJS kutubhonasi orqali yasaganman unda (LazyLoadImage) rasmlarni hajmini kichraytirib kerak bolgandagina yuklanadigan qilib yasalgan. Yana etibor berish kereak bolgan narsa shundaki unda Json faydan foydalanib malumotlarni (Map) yordamida chiqarilgan avzallik tomoni bu saydagi malumotlarni kengaytirish oson bo'lishida.",
+        "text": "Grocery store (demo). Used technologies: React Css",
         "github": "https://github.com/DilshodXD/FoodShop",
         "link": "https://foodshop-xd.netlify.app/"
     },
@@ -20,7 +20,7 @@
         "id": "2",
         "img": "image/britlex.png",
         "title": "Britlex",
-        "text": "Britlex bu tayyorlagan web saytimda men ko'proq CSS da (верстка) yaniy turli hil hajmdagi ekranlarga moslashuvchanlikga ko'proq urg'u berganman. Bu sayt Mobile: 575px, 320px hajimdagi ekranlarga moslashtirib tuzilgan.",
+        "text": "Awesome landing page adapted to mobile tablet and pc screens. Used technologies: Html Css",
         "github": "https://github.com/DilshodXD/Britlex",
         "link": "https://britlex-xd.netlify.app/"
     },
@@ -28,7 +28,7 @@
         "id": "5",
         "img": "image/port.png",
         "title": "Portfolio React",
-        "text": "Portfolio React bu Web say emas Web application hisoblanadi. Bu web application ni yasashda ReactJS kutubhonasidan foydalanib React Router orqali sahifalarni almashtirilayotganda keraksiz qismlarni yuklamasdan faqat kerakli qismini yuklaydi.",
+        "text": "My portfolio application. Used technologies: React React Router Css",
         "github": "https://github.com/DilshodXD/BrightLights",
         "link": "https://portfolio-react-xd.netlify.app/"
     }

@@ -25,16 +25,16 @@ function Home() {
                         <nav className="nav">
                             <ul className="nav__list">
                                 <li className="nav__item">
-                                    <Link className="nav__link" to="/">Bosh sahifa</Link>
+                                    <Link className="nav__link" to="/">Home</Link>
                                 </li>
                                 <li className="nav__item">
-                                    <Link className="nav__link" to="/about">Men haqimda</Link>
+                                    <Link className="nav__link" to="/about">About me</Link>
                                 </li>
                                 <li className="nav__item">
                                     <Link className="nav__link" to="/portfolio">Portfolio</Link>
                                 </li>
                                 <li className="nav__item">
-                                    <Link className="nav__link" to="/contact">Aloqa</Link>
+                                    <Link className="nav__link" to="/contact">Contact</Link>
                                 </li>
                             </ul>
                         </nav>

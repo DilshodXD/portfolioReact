@@ -19,16 +19,16 @@ const fullSize = () => {
           <div className="footer__inner">
             <div className="footer__links">
               <Link to="/" className="footer__text">
-                Bosh sahifa
+                Home
               </Link>
               <Link to="/about" className="footer__text">
-                Men haqimda
+                About me
               </Link>
               <Link to="/portfolio" className="footer__text">
                 Portfolio
               </Link>
               <Link to="/contact" className="footer__text">
-                Aloqa
+                Contact
               </Link>
             </div>
             <div className="footer__contact">
@@ -46,7 +46,7 @@ const fullSize = () => {
                 </a>
               </p>
               <p className="footer__text-immutable">
-                Raqam:{" "}
+                Call:{" "}
                 <a href="tel:+998950186355" className="footer__text">
                   +998 (95) - 018 - 63 -55
                 </a>{" "}

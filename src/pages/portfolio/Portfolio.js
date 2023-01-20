@@ -15,10 +15,10 @@ const fullSize = (post) => {
       <h3 className="portfolio-title">{post.title}</h3>
       <p className="portfolio-text">{post.text}</p>
       <a href={post.link} className="portfolio-link">
-        Ko'rish uchun bosing
+        DEMO
       </a>
       <a href={post.github} className="portfolio-link">
-        Github code
+        SOURCE
       </a>
     </div>
   );
