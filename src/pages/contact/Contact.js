@@ -15,7 +15,7 @@ const fullSize = () => {
     <footer>
       <div className="footer">
         <div className="container">
-          <h3 className="footer__title">Aloqa</h3>
+          <h3 className="footer__title">Contact</h3>
           <div className="footer__inner">
             <div className="footer__links">
               <Link to="/" className="footer__text">
