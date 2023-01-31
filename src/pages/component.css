@@ -90,6 +90,7 @@ header {
 /* ================================================================= */
 
 .header__bottom {
+    overflow-y: hidden;
     height: 90vh;
     background: linear-gradient(90deg, #2C2C2C 1.56%, #1C1C1C 95.55%);
 }
@@ -158,7 +159,7 @@ header {
     height: 575px;
     border: 67px solid #00C4F0;
     border-radius: 50%;
-    box-shadow: 0px 0px 152px rgba(0, 196, 240, 0.42);
+    box-shadow: 0px 0px 70px rgba(0, 196, 240, 0.42);
 }
 
 .round__img {
