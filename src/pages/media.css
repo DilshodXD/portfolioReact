@@ -53,6 +53,7 @@
     }
 
     .about__content {
+        border-radius: 10px;
         padding-top: 17px;
         background-color: #2a2a2a;
     }
@@ -78,6 +79,7 @@
     }
 
     .portfolio-box {
+        border-radius: 10px;
         padding: 12px;
         gap: 6px;
     }
@@ -148,7 +150,6 @@
     }
 
     .logo-img{
-        width: 30px;
         height: 30px;
     }
 

@@ -1,12 +1,11 @@
 [
-
     {
-        "id": "1",
-        "img": "image/calc.png",
-        "title": "Calculator",
-        "text": "Calculator made in JavaScript. Used technologies: JavaScript Html Css",
-        "github": "https://github.com/DilshodXD/Calculator",
-        "link": "https://calculator-xd.netlify.app/"
+        "id": "12",
+        "img": "image/keyboard.jpg",
+        "title": "Write correctly",
+        "text": "Write correctly made in JavaScript. Used technologies: JavaScript Html Css",
+        "github": "https://github.com/DilshodXD/keyboard",
+        "link": "https://keyboard-xd.netlify.app/"
     },
     {
         "id": "6",
@@ -15,6 +14,14 @@
         "text": "Grocery store (demo). Used technologies: React Css",
         "github": "https://github.com/DilshodXD/FoodShop",
         "link": "https://foodshop-xd.netlify.app/"
+    },
+    {
+        "id": "1",
+        "img": "image/calc.png",
+        "title": "Calculator",
+        "text": "Calculator made in JavaScript. Used technologies: JavaScript Html Css",
+        "github": "https://github.com/DilshodXD/Calculator",
+        "link": "https://calculator-xd.netlify.app/"
     },
     {
         "id": "2",

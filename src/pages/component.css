@@ -90,6 +90,7 @@ header {
 /* ================================================================= */
 
 .header__bottom {
+    overflow-y: hidden;
     height: 90vh;
     background: linear-gradient(90deg, #2C2C2C 1.56%, #1C1C1C 95.55%);
 }
@@ -342,7 +343,7 @@ header {
     justify-content: space-between;
     transform: translateX(40px);
     z-index: 1;
-    gap: 80px;
+    gap: 280px;
 }
 
 .about__content-right {
@@ -375,7 +376,7 @@ header {
     line-height: 24px;
     color: var(--white);
     transform: translateY(-44px);
-    text-align: justify;
+    /* text-align: justify; */
 }
 
 .about__content-img {
@@ -474,7 +475,8 @@ header {
 /* ================================================================= */
 
 .footer {
-    height: 100vh;
+    overflow-y: hidden;
+    height: 90vh;
     background: linear-gradient(90deg, #2C2C2C 1.56%, #1C1C1C 95.55%);
 }
 
@@ -707,6 +709,7 @@ header {
 }
 
 .small-footer{
-    height: 88vh;
+    height: 90vh;
+    overflow-y: hidden;
     background: linear-gradient(90deg, #2C2C2C 1.56%, #1C1C1C 95.55%);
 }

@@ -13,7 +13,7 @@ const left = () => {
       <h1 className="header__bottom-title">Hello</h1>
       <p className="header__bottom-subtittle">I'm Dilshod Xojimuhammedov</p>
       <p className="header__bottom-text">
-        I'm a frontend developer and I've been expanding my knowledge in this field. I am learning backend and mobile programming to become a more powerful programmer in the future.
+      I am a full-stack developer and currently expanding my knowledge. In the future, I aim to work even harder to become a strong Engineer.
       </p>
       <Link to="contact" className="header__bottom-contact">
         Contact me

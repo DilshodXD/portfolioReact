@@ -1,6 +1,6 @@
 import React from "react";
-import { LazyLoadImage } from 'react-lazy-load-image-component';
-import 'react-lazy-load-image-component/src/effects/blur.css';
+import { LazyLoadImage } from "react-lazy-load-image-component";
+import "react-lazy-load-image-component/src/effects/blur.css";
 import "./../component.css";
 import "./../media.css";
 import About1 from "./../img/about1.jpg";
@@ -13,42 +13,67 @@ const middle = () => {
       <div className="about__content-text">
         <h2 className="about__content-title">About me</h2>
         <p className="about__content-subtitle">
-          Hello everyone once again! You know my name is Dilshad. Brief information about me: I'm 18 years old, I'm a student at TSTU, I'm interested in Workout and I'm doing it. If you ask me why I learned programming, it is the profession of the future
-          and i like it.
-          I live in Tashkent region. Programming is a great profession and fun for me. I studied at the Proweb training center and am still improving my knowledge. My goal in starting work is to test my knowledge in practice, improve my skills and help people using my knowledge. My goal is to gain more knowledge and become a Fullstack and Mobile developer.
+          Hi, I'm Dilshod! I'm a full-stack developer with experience in the
+          MERN stack. In 2021, I began learning programming at PROWEB training
+          center in Uzbekistan, where I gained a solid foundation in web
+          development. I am passionate about using technology to solve
+          real-world problems and create innovative solutions. Throughout my
+          learning journey, I have developed a strong understanding of front-end
+          development, back-end development, and database management. My
+          technical skills include proficiency in JavaScript, HTML, CSS, React,
+          Node.js, Express.js, MongoDB, and Git. I am a fast learner and am
+          always seeking new challenges to improve my skills and knowledge.
+          Aside from coding, I enjoy playing chess, reading books, and exploring
+          new technologies. If you're interested in working together, please
+          feel free to reach out to me.
         </p>
       </div>
     </div>
-  )
-}
+  );
+};
 
 const full = () => {
   return (
     <>
       <div className="about__content-left">
         <div className="about__content-img">
-          <LazyLoadImage effect="blur" src={About1} alt="" className="content__img" />
+          <LazyLoadImage
+            effect="blur"
+            src={About1}
+            alt=""
+            className="content__img"
+          />
         </div>
         <div className="about__content-img">
-          <LazyLoadImage effect="blur" src={About2} alt="" className="content__img" />
+          <LazyLoadImage
+            effect="blur"
+            src={About2}
+            alt=""
+            className="content__img"
+          />
         </div>
       </div>
       {middle()}
       <div className="about__content-right">
         <div className="about__content-img">
-          <LazyLoadImage effect="blur" src={About3} alt="" className="content__img" />
+          <LazyLoadImage
+            effect="blur"
+            src={About3}
+            alt=""
+            className="content__img"
+          />
         </div>
       </div>
     </>
-  )
-}
+  );
+};
 
 const returner = () => {
   if (window.outerWidth <= 425) {
-    return middle()
+    return middle();
   }
-  return full()
-}
+  return full();
+};
 
 function Home() {
   return (
@@ -56,9 +81,7 @@ function Home() {
       <div className="about" id="about">
         <div className="container">
           <div className="about__inner">
-            <div className="about__content">
-              {returner()}
-            </div>
+            <div className="about__content">{returner()}</div>
           </div>
         </div>
       </div>
