@@ -103,13 +103,6 @@ const smallSize = () => {
             <p className="logo-title">Telegram</p>
           </a>
           <a
-            href="https://www.instagram.com/dilshod__xojimuhammedov/"
-            className="info__logo"
-          >
-            <img className="logo-img" src={Instagram} alt="" />
-            <p className="logo-title">Instagram</p>
-          </a>
-          <a
             href="https://www.linkedin.com/in/dilshod-xojimuhammedov-843b00250/"
             className="info__logo"
           >
