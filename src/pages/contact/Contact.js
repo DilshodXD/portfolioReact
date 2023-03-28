@@ -6,7 +6,6 @@ import Logo from "./../img/XD.png";
 
 import Call from "./../img/calls.png";
 import Telegram from "./../img/telegram.png";
-import Instagram from "./../img/instagram.png";
 import Linkedin from "./../img/linkedin.png";
 import Email from "./../img/mail.png";
 
@@ -67,13 +66,6 @@ const fullSize = () => {
             <a href="https://t.me/DilshodXD" className="info__logo">
               <img className="logo-img" src={Telegram} alt="" />
               <p className="logo-title">Telegram</p>
-            </a>
-            <a
-              href="https://www.instagram.com/dilshod__xojimuhammedov/"
-              className="info__logo"
-            >
-              <img className="logo-img" src={Instagram} alt="" />
-              <p className="logo-title">Instagram</p>
             </a>
             <a
               href="https://www.linkedin.com/in/dilshod-xojimuhammedov-843b00250/"
