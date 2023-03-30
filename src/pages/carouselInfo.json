@@ -30,13 +30,5 @@
         "text": "Awesome landing page adapted to mobile tablet and pc screens. Used technologies: Html Css",
         "github": "https://github.com/DilshodXD/Britlex",
         "link": "https://britlex-xd.netlify.app/"
-    },
-    {
-        "id": "5",
-        "img": "image/port.png",
-        "title": "Portfolio React",
-        "text": "My portfolio application. Used technologies: React React Router Css",
-        "github": "https://github.com/DilshodXD/BrightLights",
-        "link": "https://portfolio-react-xd.netlify.app/"
     }
 ]
