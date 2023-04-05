@@ -1,8 +1,8 @@
 [
     {
         "id": "15",
-        "img": "image/keyboard.jpg",
-        "title": "Write correctly",
+        "img": "image/weather.jpg",
+        "title": "Weather app",
         "text": "Weather app made in TypeScript. Used technologies: React TypeScript Css Vite",
         "github": "https://github.com/DilshodXD/WeatherTS",
         "link": "https://weather-xd.netlify.app/"
