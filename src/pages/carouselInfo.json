@@ -1,5 +1,13 @@
 [
     {
+        "id": "15",
+        "img": "image/keyboard.jpg",
+        "title": "Write correctly",
+        "text": "Weather app made in TypeScript. Used technologies: React TypeScript Css Vite",
+        "github": "https://github.com/DilshodXD/WeatherTS",
+        "link": "https://weather-xd.netlify.app/"
+    },
+    {
         "id": "12",
         "img": "image/keyboard.jpg",
         "title": "Write correctly",
