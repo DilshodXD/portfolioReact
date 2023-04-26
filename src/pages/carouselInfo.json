@@ -1,42 +1,50 @@
 [
-    {
-        "id": "15",
-        "img": "image/weather.jpg",
-        "title": "Weather app",
-        "text": "Weather app made in TypeScript. Used technologies: React TypeScript Css Vite",
-        "github": "https://github.com/DilshodXD/WeatherTS",
-        "link": "https://weather-xd.netlify.app/"
-    },
-    {
-        "id": "12",
-        "img": "image/keyboard.jpg",
-        "title": "Write correctly",
-        "text": "Write correctly made in JavaScript. Used technologies: JavaScript Html Css",
-        "github": "https://github.com/DilshodXD/keyboard",
-        "link": "https://keyboard-xd.netlify.app/"
-    },
-    {
-        "id": "6",
-        "img": "image/foodshop.png",
-        "title": "FoodShop",
-        "text": "Grocery store (demo). Used technologies: React Css",
-        "github": "https://github.com/DilshodXD/FoodShop",
-        "link": "https://foodshop-xd.netlify.app/"
-    },
-    {
-        "id": "1",
-        "img": "image/calc.png",
-        "title": "Calculator",
-        "text": "Calculator made in JavaScript. Used technologies: JavaScript Html Css",
-        "github": "https://github.com/DilshodXD/Calculator",
-        "link": "https://calculator-xd.netlify.app/"
-    },
-    {
-        "id": "2",
-        "img": "image/britlex.png",
-        "title": "Britlex",
-        "text": "Awesome landing page adapted to mobile tablet and pc screens. Used technologies: Html Css",
-        "github": "https://github.com/DilshodXD/Britlex",
-        "link": "https://britlex-xd.netlify.app/"
-    }
+  {
+    "id": "15",
+    "img": "image/faucet.jpg",
+    "title": "Multi Faucet",
+    "text": "Multi Faucet made in TypeScript. Used technologies: React Tailwind Vite",
+    "github": "#",
+    "link": "https://multi-faucet.com/"
+  },
+  {
+    "id": "15",
+    "img": "image/weather.jpg",
+    "title": "Weather app",
+    "text": "Weather app made in TypeScript. Used technologies: React TypeScript Css Vite",
+    "github": "https://github.com/DilshodXD/WeatherTS",
+    "link": "https://weather-xd.netlify.app/"
+  },
+  {
+    "id": "12",
+    "img": "image/keyboard.jpg",
+    "title": "Write correctly",
+    "text": "Write correctly made in JavaScript. Used technologies: JavaScript Html Css",
+    "github": "https://github.com/DilshodXD/keyboard",
+    "link": "https://speedfinger.netlify.app/"
+  },
+  {
+    "id": "6",
+    "img": "image/foodshop.png",
+    "title": "FoodShop",
+    "text": "Grocery store (demo). Used technologies: React Css",
+    "github": "https://github.com/DilshodXD/FoodShop",
+    "link": "https://foodshop-xd.netlify.app/"
+  },
+  {
+    "id": "1",
+    "img": "image/calc.png",
+    "title": "Calculator",
+    "text": "Calculator made in JavaScript. Used technologies: JavaScript Html Css",
+    "github": "https://github.com/DilshodXD/Calculator",
+    "link": "https://calculator-xd.netlify.app/"
+  },
+  {
+    "id": "2",
+    "img": "image/britlex.png",
+    "title": "Britlex",
+    "text": "Awesome landing page adapted to mobile tablet and pc screens. Used technologies: Html Css",
+    "github": "https://github.com/DilshodXD/Britlex",
+    "link": "https://britlex-xd.netlify.app/"
+  }
 ]
