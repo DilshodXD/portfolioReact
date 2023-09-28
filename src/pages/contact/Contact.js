@@ -46,8 +46,8 @@ const fullSize = () => {
               </p>
               <p className="footer__text-immutable">
                 Call:{" "}
-                <a href="tel:+998950186355" className="footer__text">
-                  +998 (95) - 018 - 63 -55
+                <a href="tel:+998950447724" className="footer__text">
+                  +998 (95) - 044 - 77 - 24 
                 </a>{" "}
               </p>
             </div>

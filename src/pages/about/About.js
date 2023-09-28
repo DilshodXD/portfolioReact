@@ -13,19 +13,17 @@ const middle = () => {
       <div className="about__content-text">
         <h2 className="about__content-title">About me</h2>
         <p className="about__content-subtitle">
-          Hi, I'm Dilshod! I'm a full-stack developer with experience in the
-          MERN stack. In 2021, I began learning programming at PROWEB training
-          center in Uzbekistan, where I gained a solid foundation in web
-          development. I am passionate about using technology to solve
-          real-world problems and create innovative solutions. Throughout my
-          learning journey, I have developed a strong understanding of front-end
-          development, back-end development, and database management. My
-          technical skills include proficiency in JavaScript, HTML, CSS, React,
-          Node.js, Express.js, MongoDB, and Git. I am a fast learner and am
-          always seeking new challenges to improve my skills and knowledge.
-          Aside from coding, I enjoy playing chess, reading books, and exploring
-          new technologies. If you're interested in working together, please
-          feel free to reach out to me.
+          Hi, I'm Dilshod! I'm a frontend developer with experience in the
+          React. In 2021, I began learning programming at PROWEB training center
+          in Uzbekistan, where I gained a solid foundation in web development. I
+          am passionate about using technology to solve real-world problems and
+          create innovative solutions. Throughout my learning journey, I have
+          developed a strong understanding of front-end development. My
+          technical skills include proficiency in JavaScript, React, HTML, CSS,
+          and Git. I am a fast learner and am always seeking new challenges to
+          improve my skills and knowledge. Aside from coding, I enjoy playing
+          chess, reading books, and exploring new technologies. If you're
+          interested in working together, please feel free to reach out to me.
         </p>
       </div>
     </div>

@@ -8,7 +8,7 @@
     "link": "https://multi-faucet.com/"
   },
   {
-    "id": "15",
+    "id": "50",
     "img": "image/weather.jpg",
     "title": "Weather app",
     "text": "Weather app made in TypeScript. Used technologies: React TypeScript Css Vite",
@@ -18,18 +18,10 @@
   {
     "id": "12",
     "img": "image/keyboard.jpg",
-    "title": "Write correctly",
-    "text": "Write correctly made in JavaScript. Used technologies: JavaScript Html Css",
+    "title": "Speed fingers",
+    "text": "Speed fingers made in JavaScript. Used technologies: JavaScript Html Css",
     "github": "https://github.com/DilshodXD/keyboard",
     "link": "https://speedfinger.netlify.app/"
-  },
-  {
-    "id": "6",
-    "img": "image/foodshop.png",
-    "title": "FoodShop",
-    "text": "Grocery store (demo). Used technologies: React Css",
-    "github": "https://github.com/DilshodXD/FoodShop",
-    "link": "https://foodshop-xd.netlify.app/"
   },
   {
     "id": "1",
